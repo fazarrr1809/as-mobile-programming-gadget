@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <item>
+        <id>1</id>
+        <nama>Infinix Hot 50 Pro</nama>
+        <harga>2.500.000</harga>
+        <deskripsi>Smartphone gaming dengan layar 120Hz dan chipset kencang.</deskripsi>
+    </item>
+    <item>
+        <id>2</id>
+        <nama>Laptop ZenBook 14</nama>
+        <harga>15.000.000</harga>
+        <deskripsi>Laptop ultrathin untuk produktivitas tinggi dan desain elegan.</deskripsi>
+    </item>
+    <item>
+        <id>3</id>
+        <nama>Smartwatch Ultra G</nama>
+        <harga>1.200.000</harga>
+        <deskripsi>Monitor kesehatan 24 jam dengan GPS akurat dan tahan air.</deskripsi>
+    </item>
+    <item>
+        <id>4</id>
+        <nama>Wireless Earbuds Pro</nama>
+        <harga>850.000</harga>
+        <deskripsi>Active Noise Cancellation dengan kualitas suara studio.</deskripsi>
+    </item>
+    <item>
+        <id>5</id>
+        <nama>Tablet Pad Pro 11</nama>
+        <harga>6.500.000</harga>
+        <deskripsi>Layar jernih untuk multimedia dan menggambar profesional.</deskripsi>
+    </item>
+    <item>
+        <id>6</id>
+        <nama>Keyboard Mechanical RGB</nama>
+        <harga>450.000</harga>
+        <deskripsi>Switch responsif dengan lampu RGB yang bisa dikustomisasi.</deskripsi>
+    </item>
+    <item>
+        <id>7</id>
+        <nama>Powerbank 20000mAh</nama>
+        <harga>350.000</harga>
+        <deskripsi>Kapasitas besar dengan pengisian daya super cepat (Fast Charge).</deskripsi>
+    </item>
+    <item>
+        <id>8</id>
+        <nama>Gaming Mouse Wireless</nama>
+        <harga>600.000</harga>
+        <deskripsi>Sensor optik presisi tinggi dengan baterai tahan lama.</deskripsi>
+    </item>
+</catalog>
