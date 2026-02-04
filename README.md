@@ -29,9 +29,9 @@ Berikut adalah tampilan aplikasi saat dijalankan pada perangkat **Infinix Hot 50
 |--------------------------------------------|----------------------------------------------|
 | <img src="Halaman Login.jpeg" width="250"> | <img src="Halaman Beranda.jpeg" width="250"> |
 
-| Detail Produk                                      | Keranjang Belanja                             |
-|----------------------------------------------------|-----------------------------------------------|
-| <img src="Halaman DetaiL Produk.jpeg" width="250"> | <img src="Halaman Keranjag.jpeg" width="250"> |
+| Detail Produk                                      | Keranjang Belanja                              |
+|----------------------------------------------------|------------------------------------------------|
+| <img src="Halaman Detail Produk.jpeg" width="250"> | <img src="Halaman Keranjang.jpeg" width="250"> |
 
 ---
 
